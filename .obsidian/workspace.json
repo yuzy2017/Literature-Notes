@@ -53,10 +53,28 @@
             "id": "6047ceaa61e37fd1",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "交换计划准备/Group and Position.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Group and Position"
+            }
+          },
+          {
+            "id": "cf11bbd16157d29c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "交换计划准备/Motivation Letter – General Template (for PhD Applications).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Motivation Letter – General Template (for PhD Applications)"
             }
           },
           {
@@ -74,7 +92,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -193,12 +211,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "交换计划准备/BTO.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of BTO"
             }
           },
           {
@@ -229,20 +248,22 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "6047ceaa61e37fd1",
+  "active": "cf11bbd16157d29c",
   "lastOpenFiles": [
+    "交换计划准备/PhD opportunity inquiry ---(related field).md",
+    "交换计划准备/Motivation Letter – General Template (for PhD Applications).md",
     "交换计划准备/Group and Position.md",
+    "交换计划准备/Request to rejoin your research group for PhD work.md",
+    "交换计划准备/check list.md",
+    "交换计划准备/BTO.md",
     "Disipitive Kerr Soliton 专题.md",
     "强度调制 泵浦详解.md",
-    "交换计划准备/BTO.md",
     "3D 图.md",
     "Pasted image 20250619205513.png",
     "Pasted image 20250619205448.png",
     "Pasted image 20250619205259.png",
     "Er dope waveguide.md",
     "Pasted image 20250617155820.png",
-    "交换计划准备/Request to rejoin your research group for PhD work.md",
-    "交换计划准备/check list.md",
     "Pasted image 20250617153837.png",
     "Pasted image 20250617153536.png",
     "Pasted image 20250617153356.png",
@@ -266,8 +287,6 @@
     "Self injection locking.md",
     "Pasted image 20250328202757.png",
     "Pasted image 20250328204344.png",
-    "Kerr OPO from Kartik.md",
-    "Strong-coupling dynamics of frequency conversion in an optical microresonator.md",
     "Efficient Generation of a Near-visible Frequency Comb via Cherenkov-like Radiation from a Kerr Microcomb.pdf",
     "High-fidelity cavity soliton generation in AlN.pdf",
     "near octave Kerr comb on LN ring resonator.pdf",

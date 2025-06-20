@@ -10,7 +10,9 @@ RA 怎么弄 不要引起反感
 
 
 A
-[Research ‒ HYLAB ‐ EPFL](https://www.epfl.ch/labs/hylab/research/) 重新申请呗 EPFL CV+transcript + motivation letter THz
+[Research ‒ HYLAB ‐ EPFL](https://www.epfl.ch/labs/hylab/research/) 重新申请呗 EPFL CV+tr
+
+anscript + motivation letter THz
 
 [Current openings @ EPFL – PHOSL ‒ PHOSL ‐ EPFL](https://www.epfl.ch/labs/phosl/index-html/openpositions/)  SiC chi2 chi3 cv + statement letter
 [Labs ‒ PHOTONICS ‐ EPFL](https://www.epfl.ch/research/domains/photonics/labs/#lqno)
@@ -19,17 +21,28 @@ A
 
 
 B
-Keren Bergman columbia not very suitable
 [Kennziffer5288.pdf](https://physik.uni-paderborn.de/fileadmin-nw/physik/Arbeitsgruppen/integrierte-quantenoptik/MISC/2022/Kennziffer5288.pdf) christine silberhorn
 [Martijn Heck](https://www.tue.nl/en/research/researchers/martijn-heck)
 yiwen chu
 Jérôme Faist
+silicon photonic 的组 Wim Bagaerts (programmable photonics)/ Guy Van der Sande (neuromorphic computation)
+**pascal.delhaye** frequency comb [Open Positions – Del'Haye Lab](https://microphotonics.net/open-positions)
+
+[PhD and postdoc positions | Nonlinear Nanophotonics (NLNP)](https://davidmarpaung.com/phd-positions/) 菲律宾人 荷兰那个组
+[Group Members ‒ K-Lab ‐ EPFL](https://www.epfl.ch/labs/k-lab/group-members/) kippenberg
+tobias herr 做comb的
+yating wan kaist
+Victor Torres Company 
+Wolfram Pernice
+Mark Thompson
+Ian Walmsley
+Ronald Hanson
+Guilherme Xavier
 
 
 C
 [Research ‒ LUMES ‐ EPFL](https://www.epfl.ch/labs/lumes/research/)ultrafast group
 [Laboratory of Quantum Nano-Optics ‐ EPFL](https://www.epfl.ch/labs/lqno/) spectrascopy of material **
-[Group Members ‒ K-Lab ‐ EPFL](https://www.epfl.ch/labs/k-lab/group-members/) kippenberg
 [Research ‒ LASPE ‐ EPFL](https://www.epfl.ch/labs/laspe/page-70524-en-html/) III-N material not familiar
 
 
@@ -43,6 +56,15 @@ C
 其实可以现在就开始投递 然后 看看他们怎么回复 再说 如果和juerg 太熟的话也不好
 
 这是个非常聪明且务实的做法，多投几个备选PI（Principal Investigator）不仅能增加拿到心仪offer的概率，也能提前练手、积累沟通经验，甚至有时候还能意外收获更适合的方向。下面是我建议的操作流程，供你参考：
+
+Guy Van der Sande
+wim bogaerts     Si photonics
+New PhD Opportunity in the development and modelingof Photonic lsing machines!
+We are looking for a highly motivated PhD candidate tojoin the FWO funded project "Integrated photonic lsingmachines",a collaboration between our lab at the VrijeUniversiteit Brussel and Peter Bienstman of GhentUniversity.
+Don't miss out on joining cutting-edge research andapply now: https://Inkd.in/gszpkh_V
+都是 gent 最近才发的消息
+
+
 
 ---
 

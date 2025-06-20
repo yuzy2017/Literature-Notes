@@ -139,9 +139,26 @@ slow light loss still high 0.6dB/cm can you make plasmonic modulator of LN???
 this structure there is no ring characterization just can be used
 
 # PLD Epitaxial Thin-Film BaTiO3 on MgO − Dielectric and Electro-Optic Properties
-长膜的办法
-那 感觉 Joel Winiger 还是很猛的呀 
+## why
+长膜的办法 PLD(pulse laser deposited)
+higher quality than MOCVD cheaper than MBE
+
+那 感觉 Joel Winiger 还是很猛的呀 天天在实验室 自己很chill
 Tobias 也是很猛的呀 woc 感觉错过了 一个亿
+measure the parameter with plasmonic devices
+measure at higher frequency
+## result
+Pockels coefficient or the epsilon is constant upt to 67GHz
+RF $\epsilon = 1100$  $r = 390 pm/V$ in the clamped regime
+EO comb You only need to care about the desired modulate region
 
-Pockels coefficient or the 
+so if you learn analog circuits it could be used in both the modulator and the memristor.
+## how
+fab
+design
+measure
 
+## so what
+fill the gap of eo response of high speed thin film BTO
+PLD cheap and high quality
+domain to eo, growth to eo
