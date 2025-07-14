@@ -1,6 +1,6 @@
 Dear Prof. [PI's Last Name],
 
-I hope this message finds you well. My name is Zhuoyang Yu, and I am currently pursuing my PhD studies at National University of Singapore and pursued my master at ETH Zurich, working in the area of nonlinear integrated photonics. I came across your group’s work on [🔁**Step 1: 提到对方代表作/方向**] and found it deeply inspiring.
+I hope this message finds you well. My name is Zhuoyang Yu, and I got my master degree in ETH Zurich and currently pursuing my PhD in NUS working with nonlinear optics with lithium niobate. I came across your group’s work on [🔁**Step 1: 提到对方代表作/方向**] and found it deeply inspiring.
 
 My current research focuses on nonlinear photonics using thin-film lithium niobate, including applications in EO modulators, frequency combs, and frequency conversion. This work has allowed me to gain solid experience in nanofabrication, on-chip optical design, and sample characterization. Many of the skills I have developed — from process flow planning to measurement and data analysis — could be directly related to the research directions in your group, such as [ **他们的研究方向**].
 

@@ -69,16 +69,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "交换计划准备/Motivation Letter – General Template (for PhD Applications).md",
+                "file": "交换计划准备/Group and Position.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Motivation Letter – General Template (for PhD Applications)"
+              "title": "Group and Position"
             }
           },
           {
-            "id": "e1d0ff1982771f50",
+            "id": "0c71d2b0faddd5f8",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -92,7 +92,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -149,7 +149,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 359.5
   },
   "right": {
     "id": "ff47314c5208dd7c",
@@ -248,48 +248,48 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "cf11bbd16157d29c",
+  "active": "0c71d2b0faddd5f8",
   "lastOpenFiles": [
     "交换计划准备/PhD opportunity inquiry ---(related field).md",
-    "交换计划准备/Motivation Letter – General Template (for PhD Applications).md",
     "交换计划准备/Group and Position.md",
+    "交换计划准备/Motivation Letter – General Template (for PhD Applications).md",
+    "交换计划准备/Untitled.md",
+    "交换计划准备/Untitled 1 1.md",
+    "交换计划准备/Untitled 1.md",
     "交换计划准备/Request to rejoin your research group for PhD work.md",
     "交换计划准备/check list.md",
     "交换计划准备/BTO.md",
-    "Disipitive Kerr Soliton 专题.md",
+    "Superconducting cavity electro-optics---A platform forcoherent photon conversion between superconductingand photonic circuits.md",
+    "Quadratic strong coupling in AlN Kerr cavity solitons.md",
+    "near octave Kerr comb on LN ring resonator.md",
+    "Soliton microcomb generation at 2 um.md",
+    "【集成直波导展宽频谱 + 周期极化倍频结构设计提案】.md",
+    "Efficient Generation of a Near-visible Frequency Comb via Cherenkov-like Radiation from a Kerr Microcomb.md",
+    "High-fidelity cavity soliton generation in AlN.md",
+    "near octave Kerr comb on LN ring resonator.pdf",
+    "High-fidelity cavity soliton generation in AlN.pdf",
+    "Soliton microcomb generation at 2 um.pdf",
+    "Efficient Generation of a Near-visible Frequency Comb via Cherenkov-like Radiation from a Kerr Microcomb.pdf",
+    "Applications and Integration of Optical Frequency Combs.md",
+    "Dispersion measure.md",
     "强度调制 泵浦详解.md",
+    "Clock Switch.md",
     "3D 图.md",
+    "Disipitive Kerr Soliton 专题.md",
+    "squeezing/The role of PPKTP-based SPDC sources in USTC Jiuzhang.md",
+    "squeezing/1-Page Report.md",
+    "squeezing/squeezing.md",
+    "photorefractive/photorefractive.md",
     "Pasted image 20250619205513.png",
     "Pasted image 20250619205448.png",
     "Pasted image 20250619205259.png",
-    "Er dope waveguide.md",
     "Pasted image 20250617155820.png",
     "Pasted image 20250617153837.png",
     "Pasted image 20250617153536.png",
     "Pasted image 20250617153356.png",
-    "Comb related/chi2 comb similar system.md",
-    "Comb related/chi2 AlN comb yunlei ding.md",
-    "squeezing/squeezing.md",
-    "squeezing/The role of PPKTP-based SPDC sources in USTC Jiuzhang.md",
-    "squeezing/1-Page Report.md",
-    "EO Comb.md",
-    "double ring/多环耦合.md",
-    "double ring/环的基本知识.md",
-    "OPO analysis/Lujuanjuan work.md",
-    "OPO analysis/OPO nonlinear coupling research.md",
-    "OPO analysis/Guo xiang's PhD thesis.md",
-    "temporal Hamiltonian modulated pump.md",
-    "Soliton microcomb generation at 2 um.pdf",
     "Pasted image 20250328204447.png",
-    "Follow person.md",
-    "LLE dimensionless.md",
-    "Hong Tang Group – AlN Comb (Zheng Gong's Dissertation).md",
-    "Self injection locking.md",
     "Pasted image 20250328202757.png",
     "Pasted image 20250328204344.png",
-    "Efficient Generation of a Near-visible Frequency Comb via Cherenkov-like Radiation from a Kerr Microcomb.pdf",
-    "High-fidelity cavity soliton generation in AlN.pdf",
-    "near octave Kerr comb on LN ring resonator.pdf",
     "Comb related",
     "OPO analysis",
     "double ring",
